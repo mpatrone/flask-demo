@@ -1,0 +1,1 @@
+This is a sample docker build for a automated build using gitgub
